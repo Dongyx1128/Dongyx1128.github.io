@@ -77,9 +77,9 @@ navbar:
         归档: /archives
         分类: /categories
         标签: /tags
-        相册: /album
-        影音: /media
-        友链: /friend
+        # 相册: /album
+        # 影音: /media
+        # 友链: /friend
         留言: /message
         碎碎念: /self-talking
         关于: /about
@@ -108,9 +108,10 @@ footer:
 article:
     # Code highlight settings
     highlight:
-        # Code highlight themes
+        # Code highlight themes     白色atom-one-light与黑色Monokai
         # https://github.com/highlightjs/highlight.js/tree/master/src/styles
         theme: atom-one-light
+        # theme：Monokai
         # Show copy code button
         clipboard: true
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
@@ -409,3 +410,4 @@ side_music_netease_id: 268549580 #侧边栏网易云歌单id
 busuanzi_only_count: false #当上面plugins中busuanzi: true时，此配置busuanzi_only_count为true时，网站不显示不蒜子统计数据，但是会每次统计。false时显示统计数据。
 has_live_2D_switch: false #live2D开关 true-开 false-关
 use_pjax: true #是否pjax
+lightgallery_is_full: true #图片灯箱是否显示完整的插件(包括放大，分享等)，true-显示，false-显示简洁版

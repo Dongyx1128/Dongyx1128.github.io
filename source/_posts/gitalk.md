@@ -1,8 +1,11 @@
 ---
 title: Gitalk未找到相关的Issues进行评论---解决方法
 date: 2022-05-07 22:55:20
-categories: [博客,Gitalk]
-tags: [博客]
+categories: 
+- 博客
+- Gitalk
+tags: 
+- 博客
 ---
 
 &emsp;&emsp;搭建博客的时候用gitalk作为评论框架，结果配置完成进行测试的时候发现出现：

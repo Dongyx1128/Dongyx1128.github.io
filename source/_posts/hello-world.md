@@ -1,8 +1,12 @@
 ---
 title: Hello World
 date: 2020-05-11 08:05:20
-categories: [博客,搭建与编辑]
-tags: [博客]
+categories: 
+- 博客
+- 搭建与编辑
+tags: 
+- 博客
+- 测试
 ---
 &emsp;&emsp; <font color=black size=5>welcome to [My blog](https://dongyx1128.github.io/)! This is My first post. Click [this](https://dongyx1128.github.io/) for more info.</font>
 
