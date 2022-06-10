@@ -8,17 +8,18 @@ tags:
 - 博客
 - 测试
 ---
-&emsp;&emsp; <font color=black size=5>welcome to [My blog](https://dongyx1128.github.io/)! This is My first post. Click [this](https://dongyx1128.github.io/) for more info.</font>
+&emsp;&emsp;<font size=5>welcome to [My blog](https://dongyx1128.github.io/)! This is My first post. Click [this](https://dongyx1128.github.io/) for more info.</font>
 
-&emsp;&emsp; <font color=black size=5>If you get any problems when watch this post, you can find the answer in [My blog](https://dongyx1128.github.io/) or you can ask me on [GitHub](https://dongyx1128.github.io/).</font>
+&emsp;&emsp;<font size=5>If you get any problems when watch this post, you can find the answer in [My blog](https://dongyx1128.github.io/) or you can ask me on [GitHub](https://dongyx1128.github.io/).</font>
 
-***
 <!-- more -->
+
+<br/>
 
 ## Quick Start
 
 &emsp;&emsp;md文件保存到本地：
-* &emsp;copy文件-->F:\blog\source\_posts
+* &emsp;copy文件 ---> E:\blog\source\\_posts
 * &emsp;Git Bash Here进入Git命令行
 
 ## Create a new post
@@ -28,7 +29,6 @@ tags:
 ```
 $ hexo new "My New Post"
 ```
-
 
 ## Clean
 
@@ -45,7 +45,6 @@ $ hexo clean
 ```
 $ hexo generate
 ```
-
 
 ## Run server
 
