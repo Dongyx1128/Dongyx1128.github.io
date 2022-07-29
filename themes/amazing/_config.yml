@@ -25,10 +25,10 @@ head:
         image: /img/avatar.png
         # Site name (og:site_name) (optional)
         # You should leave this blank for most of the time
-        site_name: dyx'blog
+        site_name: Yaxin Dong (董亚鑫) - Homepage
         # Page author (article:author) (optional)
         # You should leave this blank for most of the time
-        author: dyx
+        author: Yaxin Dong
         # Page description (og:description) (optional)
         # You should leave this blank for most of the time
         description: 岁月如歌,情投意合.
@@ -58,7 +58,7 @@ head:
         url: https://dongyx1128.github.io/
         # Page author (article:author) (optional)
         # You should leave this blank for most of the time
-        author: dyx
+        author: Yaxin Dong
         # Page images (optional)
         # You should leave this blank for most of the time
         image: /img/avatar.png
