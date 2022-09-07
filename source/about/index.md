@@ -7,7 +7,7 @@ comments: true
 ### 个人简介
 
 ---
-&emsp;&emsp;我来自中国山东菏泽，古称曹州，被称为“中国牡丹之都”。我在2019年取得山东管理学院学士学位。现在我是一名计算机科学与技术专业的在读硕士，正在攻读上海理工大学硕士学位，由刘丛副教授指导，我的研究兴趣包括机器学习与图像处理。
+&emsp;&emsp;我来自中国山东菏泽，古称曹州，被称为“中国牡丹之都”。我在2019年取得山东管理学院学士学位。现在我是一名计算机科学与技术专业的在读硕士，正在攻读上海理工大学硕士学位，由刘丛副教授指导，我的研究兴趣包括机器学习、人工智能与图像处理。
 
 <br>
 
@@ -16,21 +16,23 @@ comments: true
 ---
 ***学术论文***
 
-+ Cong.Liu\*, ***Yaxin.Dong***, CNN-Enhanced Graph Attention Network for Hyperspectral 
-Image Super-Resolution Using Non-Local Self-Similarity, DOI:888888, International Journal of Remote Sensing (IF=3.531), 2022
-+ ***Yaxin.Dong***, Cong.Liu\*, 
++ Cong.Liu\*, **Yaxin.Dong**, *CNN-Enhanced Graph Attention Network for Hyperspectral Image Super-Resolution Using Non-Local Self-Similarity*, **DOI: 10.1080/01431161.2022.2121188, International Journal of Remote Sensing (JCR Q2, IF=3.531, 已录用), 2022**
++ ***Yaxin.Dong***, Cong.Liu\*, LSGATSR: Hyperspectral Image Super-Resolution via Joint Long Short-Term and
+  Graph Attention Network With Spectral-Spatial, (实验已完成，撰稿进度70%)
 
 ***荣誉奖项***
 
-+ 2022年上海理工大学二等学业奖学金 (总排名9, 共103人)
++ 2022年上海理工大学一等学业奖学金 (总排名9, 共103人)
 + 2021年“华为杯”第十八届中国研究生数学建模竞赛 国家二等奖
 
-***技能***
+***专业技能***
+
 + 编程：熟练使用Matlab、Python语言，掌握Linux、Git工具， 熟悉C、C++、Java语言
 + 语言：英语四级434分，英语六级465分
 + 正在提升学习的数学及算法基础：凸优化、矩阵论、概率及统计、数据结构、机器学习、深度学习
 
 ***兴趣爱好***
+
 + 体育迷：排球、花样滑冰、网球
 + 娱乐咖：国漫忠实观众、音乐迷、唱歌、写字、手游
 + 动手怪：手机刷机、电脑装机、路由器刷固件
@@ -46,7 +48,7 @@ Image Super-Resolution Using Non-Local Self-Similarity, DOI:888888, Internationa
 - 2022.05.26-2022.12.28
 > **准备申博**
 > + [x] 第一篇小论文大修+小修，计划申博，准备材料
-> + [ ] 第二篇小论文继续做实验，码字投稿
+> + [x] 第二篇小论文继续做实验，码字投稿
 > + [ ] 第三篇小论文创新+实验+手稿+投稿
 
 - 2022.05.01

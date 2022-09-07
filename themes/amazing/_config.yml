@@ -82,7 +82,7 @@ navbar:
         # 友链: /friend
         留言: /message
         碎碎念: /self-talking
-        关于: /about
+        简介: /about
     # Links to be shown on the right of the navigation bar
     links:
         # Join Gitter:
