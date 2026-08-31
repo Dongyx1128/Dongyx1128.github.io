@@ -95,4 +95,19 @@
             if(typeof loadBanner == 'function'){
                 loadBanner();
             }
+        });</script></body></html>��可以和上面的重载放在一起
+        document.addEventListener('pjax:complete', function () {
+            $(".section").css({opacity:1});
+            if(false){
+                $.getScript('/js/comment-issue-data.js',function(){loadIssueData('ce79fc427fc1e3b679a4','7200df5d7197cdbb5f5a98133dd9d0373a640ae6','Dongyx1128','blog_comment',false);});
+            }
+            if(false){
+                loadMathJax();
+            }
+            loadMainJs(jQuery, window.moment, window.ClipboardJS, window.IcarusThemeSettings);
+            loadBackTop();
+            loadBusuanzi();
+            if(typeof loadBanner == 'function'){
+                loadBanner();
+            }
         });</script></body></html>
